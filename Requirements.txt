@@ -1,0 +1,14 @@
+
+1 Hardware configuration
+
+Processor: AMD RYZEN 5600H CPU @ 3.30Ghz on Windows® 10 64-Bit.
+RAM: 8GB (IDE + Android SDK + Android Emulator)/ 4GB (minimum).
+Memory: 512GB SSD SOLID STATE DRIVE.
+Keyboard: MS compatible keyboard.
+Mouse: MS compatible mouse.
+
+2 Software configuration
+
+Operating system: Windows® 10 64-Bit.
+Tool kit: Android SDK (Software development kit), Java development kit (JDK).
+IDE: Android Studio.
